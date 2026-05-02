@@ -1,4 +1,5 @@
-# apnacollege-demo
-This is my first repository
-<br>
-Author-Ronit kumar
+hey my name is ronit kumar 
+i am very happy to learn about git aqnd github
+it's a pleasure to learn all these things from you 
+
+
